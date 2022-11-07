@@ -1,0 +1,1 @@
+# DinamikVeStaticClass
